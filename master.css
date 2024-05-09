@@ -58,5 +58,8 @@ margin-left: 10px;
         left: 16px;
         width: 235px;
     }
+    #imgbox img{
+        margin-left: 0;
+    }
 
 }
